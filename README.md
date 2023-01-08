@@ -68,7 +68,7 @@
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
 
 [![Instagram](https://img.shields.io/badge/Insta-%40Tahsin-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/tahsin_islam__)
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/name.tahsin)
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/name.tahsin)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/name.tahsin)
 [![Github](https://img.shields.io/badge/Github-TAHSIN-404green?style=for-the-badge&logo=github)](https://github.com/TAHSIN-404)
 
