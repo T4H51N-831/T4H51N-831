@@ -25,23 +25,23 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 😏 𝐍𝐀𝐌𝐄:- 𝗧𝗔𝗛𝗦𝗜𝗡𝗨𝗟 𝗜𝗦𝗟𝗔𝗠 𝗠𝗘𝗭𝗕𝗔
+- 👨‍⚖️ 𝐍𝐀𝐌𝐄:- 𝗧𝗔𝗛𝗦𝗜𝗡𝗨𝗟 𝗜𝗦𝗟𝗔𝗠 𝗠𝗘𝗭𝗕𝗔
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 😎 𝐀𝐆𝐄:- 18 
+- 😺 𝐀𝐆𝐄:- 18
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 📕 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:- 𝗘𝗡𝗧𝗘𝗥 1𝗦𝗧 𝗬𝗘𝗔𝗥
+- 📚 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:- 𝗘𝗡𝗧𝗘𝗥 1𝗦𝗧 𝗬𝗘𝗔𝗥
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ❤ 𝐋𝐎𝐕𝐄𝐑:-  𝗣𝗔𝗥𝗘𝗡𝗧𝗦
+- 💞 𝐋𝐎𝐕𝐄𝐑:-  𝗣𝗔𝗥𝗘𝗡𝗧𝗦
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👉 𝐈𝐍𝐒𝐋𝐈𝐑𝐀𝐓𝐈𝐎𝐍:- 𝗠𝗬𝗦𝗘𝗟𝗙
+- 🧍‍♂️ 𝐈𝐍𝐒𝐋𝐈𝐑𝐀𝐓𝐈𝐎𝐍:- 𝗠𝗬𝗦𝗘𝗟𝗙
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -57,11 +57,11 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [TAHSIN-404](https://github.com/TAHSIN-404)
+- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [𝗧𝗔𝗛𝗦𝗜𝗡-404](https://github.com/TAHSIN-404)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ⚡ Fun fact **Everyone say I am funny**
+- 👻 Fun fact  **Everyone say I am funny**
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
