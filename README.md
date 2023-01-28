@@ -7,7 +7,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Tahsinul;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone;+Take+Love+From+Bangladesh )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+MOHAMMAD+TAHSIN;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone;+Take+Love+From+Bangladesh )](https://git.io/typing-svg)
 
 </p>
 
