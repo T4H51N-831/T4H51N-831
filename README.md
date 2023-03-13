@@ -56,20 +56,20 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [𝗧𝗔𝗛𝗦𝗜𝗡-404](https://github.com/TAHSIN-404)
+- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [𝗧𝗔𝗛𝗦𝗜𝗡-831](https://github.com/TAHSIN-831)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👻 Fun fact  **Everyone say I am funny**
+- 👻 Fun fact  ** I Think Iam Funny 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
 
-[![Instagram](https://img.shields.io/badge/Insta-%40Tahsin-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/tahsinul_islam__)
+[![Instagram](https://img.shields.io/badge/Insta-%40Tahsin-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/tahsin_831)
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/name.tahsin)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/name.tahsin)
-[![Github](https://img.shields.io/badge/Github-TAHSIN-404green?style=for-the-badge&logo=github)](https://github.com/TAHSIN-404)
+[![Github](https://img.shields.io/badge/Github-TAHSIN-831green?style=for-the-badge&logo=github)](https://github.com/TAHSIN-831)
 
 ### ⚙️ &nbsp; Language & programming
 
