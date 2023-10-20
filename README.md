@@ -36,10 +36,6 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 💞 𝐋𝐎𝐕𝐄𝐑:-  𝗣𝗔𝗥𝗘𝗡𝗧𝗦
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
 - 🧍‍♂️ 𝐈𝐍𝐒𝐋𝐈𝐑𝐀𝐓𝐈𝐎𝐍:- 𝗠𝗬𝗦𝗘𝗟𝗙
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
@@ -52,7 +48,6 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐏𝐀𝐆𝐄:- [𝐁𝐃 𝐓𝐄𝐑𝐌𝐔𝐗 𝐓𝐔𝐓𝐎𝐑𝐈𝐀𝐋](https://www.facebook.com/BD-Termux-Tutorialシ-100443515499094/)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
